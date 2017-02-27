@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1482009661 source:f:\c\stiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1482009716 source:l:\teme asd\stiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1482009716 source:f:\teme asd\stiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
